@@ -1,0 +1,1 @@
+INSERT INTO CLIENTE(nome, email, senha) VALUES ('Cristiano Filho', 'cristiano@email.com', '$2a$10$kPf0TIXfRfAADrNpK4Q4aO1EyWWybT9R0Nwrb7159c1MKXrFXriwy')
